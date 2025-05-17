@@ -47,6 +47,6 @@
 ---
 
 <p align="center">
-  "🕸️ Spinning a web of elegant code that connects problems to their perfect solutions." 
+  "🧩 Weaving intricate tapestries of logic where every thread tells a story. "
 </p>
 
